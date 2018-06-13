@@ -1,0 +1,10 @@
+{
+  "simulation": "com.itv.atsdcf.perf.MassCopyAndRetardSimulation",
+  "simulationId": "masscopyandretardsimulation",
+  "start": 1528882595068,
+  "description": "",
+  "scenarios": ["InventoryLockSimulation"],
+  "assertions": [
+
+  ]
+}
